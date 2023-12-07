@@ -1,0 +1,42 @@
+p{
+    color: red;
+}
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 3px;
+    width: 100%;
+}
+tr,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 3px;
+}
+thead{
+    background-color: #ff0000;
+    color: #ffffff;
+}
+.aligntop {
+    vertical-align: top;
+}
+.desctiption{
+    font-size: 14px;
+    font-weight: bolder;
+    vertical-align: middle;
+    text-align: center;
+}
+.size{
+    text-align: center;
+}
+.center {
+    margin: auto;
+    width: 80%;
+    border: 3px solid green;
+    padding: 10px;
+  }
+  .imgcenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
